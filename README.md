@@ -1,4 +1,4 @@
-# fernando_web
+# Counter Web App
 
 A new Flutter project.
 
